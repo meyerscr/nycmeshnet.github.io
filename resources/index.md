@@ -5,10 +5,24 @@ title: Resources
 
 __[Our mailing list](https://lists.projectmeshnet.org/cgi-bin/mailman/listinfo/nyc)__
 
-__[Meshberry](/meshberry) -__ preconfigured Raspberry Pi image
+#Reading List
+__[Wireless Networking in the Developing World](https://wndw.net)__
+#Related Projects
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+__[Outernet](https://outernet.is)__
+#Organizer's Tools
+#Partners
+#Case Studies
 
-__[Project Meshnet](https://projectmeshnet.org/)__ and the __[wiki](https://wiki.projectmeshnet.org/Main_Page)__
 
-__[Hyperboria](http://hyperboria.net/)__
+__[Outernet](https://outernet.is)__
 
-__[cjdns on GitHub](https://github.com/cjdelisle/cjdns)__
+
+
