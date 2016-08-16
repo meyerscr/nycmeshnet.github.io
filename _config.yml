@@ -9,7 +9,7 @@ url:              http://nycmeshnet.github.io
 owner:
   name:           "#nycmeshnet"
   avatar:         bio-photo.jpg
-  email:          peter@nycmesh.net
+  email:          info@nycmesh.net
   # Social networking links used in footer. Update and remove as you like.
   reddit:         nycmeshnet
   twitter:        nycmeshnet
@@ -41,6 +41,9 @@ authors:
     name:   Nicholas
     avatar: nonlinear.jpg
     email:  info@nicholasfrota.com
+  Charlie:
+    charlie: Charlie
+    email: charlie@nycmesh.net
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
