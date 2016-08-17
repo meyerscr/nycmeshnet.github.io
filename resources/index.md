@@ -23,7 +23,7 @@ __[WLAN Slovenia](https://wlan-si.net/)__
 #Organizer's Tools
 __[Pamphlets and other Outreach materials](https://nycmesh.net/)__  
 __[Our Map](https://nycmesh.net/map)__  
-__[LigoWave Link Calculator](linkcalc.ligowave.com)__  
+__[LigoWave Link Calculator](https://linkcalc.ligowave.com)__  
 
 
 
